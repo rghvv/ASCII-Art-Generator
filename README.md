@@ -27,12 +27,16 @@ A Python script that converts images to ASCII art. Works pretty well when using 
 
 <code>python Ascii-Converter.py --f che.png --o che</code>
 
-![Che Guevara](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/output/cheout.png)
+![Che Guevara](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/Comparisons/cheout.png)
 
 <code>python Ascii-Converter.py --f fire.png --o fire</code>
 
-![Fire](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/output/fireout.png)
+![Fire](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/Comparisons/fireout.png)
 
 <code>python Ascii-Converter.py --f wave.png --o wave --r 235</code>
 
-![Wave of Kanagawa](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/output/waveout.png)
+![Wave of Kanagawa](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/Comparisons/waveout.png)
+
+<code>python Ascii-Converter.py --f salesforce.png --o salesforce --r 210</code>
+
+!{Salesforce Logo](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/Comparisons/salesforceout.png)
