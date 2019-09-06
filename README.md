@@ -41,3 +41,5 @@ A Python script that converts images to ASCII art. Works pretty well when using 
 <code>python Ascii-Converter.py --f wave.png --o wave --r 235</code>
 
 ![Wave of Kanagawa](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/Comparisons/waveout.png)
+
+![Terminal](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/Comparisons/terminal.png)
