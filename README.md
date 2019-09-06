@@ -39,4 +39,4 @@ A Python script that converts images to ASCII art. Works pretty well when using 
 
 <code>python Ascii-Converter.py --f salesforce.png --o salesforce --r 210</code>
 
-!{Salesforce Logo](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/Comparisons/salesforceout.png)
+!{Salesforce](https://raw.githubusercontent.com/raghavverma2/ASCII-Art-Generator/master/Comparisons/salesforceout.png)
